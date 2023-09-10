@@ -85,6 +85,11 @@ disable = """
   E0401,
   R0201,
   R0801,
+  E501,
+  F401,
+  F841
+  B030,
+  B028
 """
 
 [tool.pylint.reports]
